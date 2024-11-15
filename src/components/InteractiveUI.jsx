@@ -7,6 +7,7 @@ import GenerativePricingPlan from './pricing/Generative.jsx'
 import GenerativePremiumPlan from './premium/Generative.jsx'
 
 
+
 function SignupUI() {
     const [showGenerativeUI, setShowGenerativeUI] = useState(false);
   
